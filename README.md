@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my GitHub. I am a front-end developer currently refining my skills in Javascript and React. 
+Check out my searchable GitHub gallery of respositories for quick descriptions: https://amy-pr.github.io/github-repo-gallery/
+Check out my favorite projects on my portfolio website: https://www.amytechtherapy.com/ 
+Or connect with me on LinkedIn: https://www.linkedin.com/in/amy-preci-developer/
+
+See you around the socials. 
+-Amy
