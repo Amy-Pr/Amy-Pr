@@ -21,6 +21,6 @@ Welcome to my GitHub. I am a front-end developer working primarily with Javascri
 - Or connect with me on LinkedIn: https://www.linkedin.com/in/amy-preci-developer/
 
 Update: After completing my Teletherapy Library project, I took a personal break from coding to grieve the loss of my beloved canine buddy.
-The computer chair feels empty without him, but his iggy spirit lives on. Currently, I'm diving into UI/UX design to better connect what 
+The computer chair feels empty without him, but his iggy spirit lives on. 🐾 Currently, I'm diving into UI/UX design to better connect what 
 I build with the people who use it. See you around the socials. 
 -Amy
